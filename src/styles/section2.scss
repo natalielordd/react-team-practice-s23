@@ -1,3 +1,32 @@
 #section2 {
-  background-color: lavender;
+  background-color: hsl(314, 12%, 51%);
 }
+.test {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Georgia, Times, 'Times New Roman', serif;
+}
+
+li {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif, Times, serif;
+}
+
+#firstBullet {
+  color: purple;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: dashed;
+  margin: 20px;
+}
+
+#secondBullet {
+  color: rgb(219, 166, 214);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: solid;
+  margin: 20px;
+}
+
+#thirdBullet {
+  color: rgb(254, 235, 252);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: ridge;
+  margin: 20px;
+}
+
